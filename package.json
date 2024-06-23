@@ -2,7 +2,7 @@
   "name": "@react-native-seoul/masonry-list",
   "version": "1.4.2",
   "description": "React Native Masonry List for Pinterest like UI implemented just like the [FlatList].",
-  "main": "index.js",
+  "main": "index.tsx",
   "types": "index.d.ts",
   "postinstall": "npx dooboolab-welcome postinstall",
   "scripts": {
